@@ -1,12 +1,11 @@
 nav {
-  display: inline-block;
-  background-color: blue;
+  background-color: darkteal;
   margin: 0 auto;
 }
 
 ul {
  list-style: none;
- text-align: right;
+ text-align: center;
 }
 
 ul li {
@@ -14,15 +13,10 @@ ul li {
  color: white;
  font-weight: bold;
  font-size: 20px;
+ margin: 0px 25px;
 }
 
 header {
  text-align: center;
 }
 
-h1 {
- display: inline-block;
- text-align: left;
- font-size: 20px;
- color: white;
-}
